@@ -1,0 +1,19 @@
+{
+  "name": "if-then-else",
+  "version": "0.1.0",
+  "description": "If Condition Then Else - component",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borispov/if-then-else.git"
+  },
+  "author": "Boris Povolotsky <boristofu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borispov/if-then-else/issues"
+  },
+  "homepage": "https://github.com/borispov/if-then-else#readme"
+}
